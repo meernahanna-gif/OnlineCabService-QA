@@ -1,0 +1,14 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.cab</groupId>
+  <artifactId>CabServiceQA</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <dependencies>
+    <dependency>
+      <groupId>org.testng</groupId>
+      <artifactId>testng</artifactId>
+      <version>7.7.0</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>
