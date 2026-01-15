@@ -1,0 +1,7 @@
+<suite name="CabServiceSuite">
+    <test name="SampleTest">
+        <classes>
+            <class name="SampleTest"/>
+        </classes>
+    </test>
+</suite>
